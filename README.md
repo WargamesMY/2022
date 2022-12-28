@@ -46,6 +46,7 @@ We try hard to keep the competition as free and exciting as possible; however, w
 * [CAPTCHA the Flag](https://github.com/rixinsc/ctf-writeups/blob/master/wgmy2022.md) - [Part 2](https://gist.github.com/yayadontknow/0f5c0da132eb7bea0406fc6762233fb3)
 
 #### Author
+* [Stephen](https://hong5489.github.io/2022-12-25-wgmy2022/)
 
 ### Pro Category Final Scoreboard
 
